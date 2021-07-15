@@ -238,6 +238,9 @@ footer p{
     .branding h1, h2{
         display: none;
     }
+    .brand{
+        animation: none;
+    }
 }
 
 @media (max-width: 353px){
