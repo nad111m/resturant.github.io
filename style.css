@@ -245,6 +245,9 @@ footer p{
    .branding h2{
        display: block;
    }
+   .brand{
+       animation: none;
+   }
 
    .branding h3{
        display: none;
